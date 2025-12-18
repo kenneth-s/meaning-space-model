@@ -1,4 +1,4 @@
-'# Meaning-Space-Model (MSM)
+# Meaning-Space-Model (MSM)
 
 ## 🌌 The Mission
 **MSM** is an experimental research project exploring the **geometry of thought**. 
